@@ -22,7 +22,6 @@ The dataset contains the following columns:
 ## Project Structure
 - `data/`: Directory containing the dataset files.
 - `notebooks/`: Jupyter notebooks for exploratory data analysis and model development.
-- `scripts/`: Python scripts for data preprocessing, feature engineering, and model training.
 - `README.md`: This README file.
 
 ## Installation
